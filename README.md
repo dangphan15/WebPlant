@@ -15,7 +15,7 @@ PRJ301
 - This is a mini project selling Flower
 - This web works well on desktop, not for mobile
 - Use Netbean to combine and run
-- run 'DataBaseDenkShop.sql' for database
+- run 'WebPlant.sql' for database
 - Change DBUtils for correct DB connection
 
 ## Technology
