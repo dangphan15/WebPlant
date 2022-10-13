@@ -31,24 +31,24 @@ PRJ301
 
 ## Screen-shots
 
-![]()
+![home-page-web](https://github.com/dangphan15/WebPlant/blob/main/screenshot/home-page-web-plant.png)
 
-![]()
+![login-page](https://github.com/dangphan15/WebPlant/blob/main/screenshot/login-page.png)
 
-![]()
+![admin-page-1](https://github.com/dangphan15/WebPlant/blob/main/screenshot/admin-page-1.png)
 
-![]()
+![admin-page-2](https://github.com/dangphan15/WebPlant/blob/main/screenshot/admin-page-2.png)
 
-![]()
+![admin-page-3](https://github.com/dangphan15/WebPlant/blob/main/screenshot/admin-page-3.png)
 
-![]()
+![order-page-for-user](https://github.com/dangphan15/WebPlant/blob/main/screenshot/order.png)
 
-![]()
+![shopping-cart](https://github.com/dangphan15/WebPlant/blob/main/screenshot/shopping-cart.png)
 
-![]()
+![update-info](https://github.com/dangphan15/WebPlant/blob/main/screenshot/update-info-page.png)
 
 ## Contributors
-- [Tran Minh Thien](https://github.com/Denkhotieu) - SE160413 
+- [Phan Truong Minh Dang](https://github.com/dangphan15)
 
 ## License & Copyright
  Copyright &#169; 2022 dangphan15
